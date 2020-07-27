@@ -1,5 +1,4 @@
-### Crafting some android apps 👋
-
+### Crafting some android apps :hammer: 
 
 
 <!--
