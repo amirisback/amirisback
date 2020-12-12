@@ -1,4 +1,4 @@
-# 👋 Amir, 23th years old.
+# 👋 Amir, 23th years old
 [![Linkedin Badge](https://img.shields.io/badge/-Muhammad%20Faisal%20Amir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisalamircs)](https://www.linkedin.com/in/faisalamircs)
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@faisalamircs)
 ### Crafting some awesome android apps and library :hammer: 
