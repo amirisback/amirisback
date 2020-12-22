@@ -1,7 +1,7 @@
 # 👋 Welcome To My Open Source Project
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
-#### What am I working on? I'm working on some cool android apps and libraries 🔨
+#### What am I doing? I'm crafting some cool Android apps and libraries 🔨
 
 
 <!--
