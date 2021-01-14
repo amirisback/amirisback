@@ -3,6 +3,8 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
 #### What am I doing? I'm crafting some cool Android apps and libraries 🔨
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirisback" alt="amirisback" /></a>
+
 <!--
 **amirisback/amirisback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
