@@ -1,7 +1,7 @@
-# 👋 Welcome To My Open Source Project
+# 👋 Welcome To Amir's Open Source Project
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
-#### What am I doing? I'm crafting some cool Android apps and libraries 🔨
+#### What are Amir doing? Amir crafting some cool Android apps and libraries 🔨
 
 <!--
 **amirisback/amirisback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
