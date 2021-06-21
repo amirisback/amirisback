@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
 #### What are Amir doing? Amir crafting some cool Android apps and libraries 🔨
-
+Amir's Awesome Project - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 <!--
 **amirisback/amirisback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
