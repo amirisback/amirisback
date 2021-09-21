@@ -4,4 +4,4 @@
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue) <br>
 - Google Dev Library Profile - [Click Here](https://devlibrary.withgoogle.com/authors/amirisback)
-- Jitpack Library Publishing Guide - [Click Here](https://github.com/amirisback/jitpack-library-guide)
+- Jitpack Library Publishing Guide - [Click Here](https://github.com/amirisback/jitpack-library-groovy-guide)
