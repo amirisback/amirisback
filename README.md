@@ -6,4 +6,5 @@
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Android Programmer Interview Cheat Sheet - [Click Here](https://amirisback.github.io/android-programmer-interview-cheat-sheet/)
+- Minimum MVVM Sample - [Simple](https://github.com/amirisback/minimum-mvvm), [HTTP Client](https://github.com/amirisback/minimum-mvvm-network-api), [Room Database](https://github.com/amirisback/minimum-mvvm-room-database)
 - Jitpack Library Publishing Guide - [Groovy](https://github.com/amirisback/jitpack-library-groovy-guide), [Kotlin DSL](https://github.com/amirisback/jitpack-library-kotlin-dsl-guide), [Kotlin Library](https://github.com/amirisback/sample-kotlin-library)
