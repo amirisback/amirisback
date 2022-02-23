@@ -11,8 +11,6 @@
 <img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chick.gif">
 <img width="90px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chick.gif">
 
-
-
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
 - Android Programmer Interview Cheat Sheet - [Click Here](https://amirisback.github.io/android-programmer-interview-cheat-sheet/)
