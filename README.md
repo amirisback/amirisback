@@ -6,11 +6,11 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<img width="190px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-run.gif">
+<!-- <img width="190px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-run.gif"> -->
 
-<!-- 
-<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-annoy.gif">
-<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-annoy.gif"> -->
+
+<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chicken.gif">
+<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chicken.gif">
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
