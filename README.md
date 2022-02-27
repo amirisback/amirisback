@@ -6,7 +6,11 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<img width="160x" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-cilukba-2.gif">
+<!-- Head Bang -->
+<img width="200px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-head-bang.gif">
+
+<!-- Ciluk Ba -->
+<!-- <img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-cilukba-2.gif"> -->
 
 
 <!-- <img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chicken.gif">
