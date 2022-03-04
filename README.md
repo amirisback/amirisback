@@ -6,8 +6,10 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
+<img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-eating-water-melon.gif">
+
 <!-- Run -->
-<img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-run.gif">
+<!-- <img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-run.gif"> -->
 
 <!-- Swing -->
 <!-- <img width="195px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-swing.gif"> -->
