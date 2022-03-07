@@ -6,11 +6,15 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<!-- Emotional Damage -->
+<!-- Super -->
+<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super.gif">
+<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-super.gif">
+
+<!-- Drink Boba -->
+<!--
 <img width="110px" height="115px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-minum-boba-ditaman.gif">
 <img width="110px" height="115px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-minum-boba-ditaman.gif">
-
-
+-->
 
 <!-- Emotional Damage -->
 <!-- <img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-nahan-emosi.gif">
