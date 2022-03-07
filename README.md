@@ -6,8 +6,12 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
+<!-- Emotional Damage -->
+<img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-nahan-emosi.gif">
+<img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-nahan-emosi.gif">
+
 <!-- Eating WaterMelon -->
-<img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-eating-water-melon-01.gif">
+<!-- <img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-eating-water-melon-01.gif"> -->
 
 <!-- Run -->
 <!-- <img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-run.gif"> -->
@@ -25,6 +29,7 @@
 <!-- <img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-chicken.gif">
 <img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-chicken.gif">
   -->
+  
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
 - Android Code Playground, Caravan Android - [Click Here](https://github.com/caravancodes/caravan-android)
