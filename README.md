@@ -7,9 +7,15 @@
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
 <!-- Emotional Damage -->
-<img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-nahan-emosi.gif">
-<img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-nahan-emosi.gif">
+<img width="110px" height="115px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-minum-boba-ditaman.gif">
+<img width="110px" height="115px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-minum-boba-ditaman.gif">
 
+
+
+<!-- Emotional Damage -->
+<!-- <img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-nahan-emosi.gif">
+<img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-nahan-emosi.gif">
+ -->
 <!-- Eating WaterMelon -->
 <!-- <img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-eating-water-melon-01.gif"> -->
 
