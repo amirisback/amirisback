@@ -7,9 +7,10 @@
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
 <!-- Super -->
-<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super.gif">
+<!-- <img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super.gif">
 <img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-super.gif">
-
+ -->
+ 
 <!-- Drink Boba -->
 <!--
 <img width="110px" height="115px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-minum-boba-ditaman.gif">
@@ -20,6 +21,7 @@
 <!-- <img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-nahan-emosi.gif">
 <img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-nahan-emosi.gif">
  -->
+ 
 <!-- Eating WaterMelon -->
 <!-- <img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-eating-water-melon-01.gif"> -->
 
@@ -27,7 +29,7 @@
 <!-- <img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-run.gif"> -->
 
 <!-- Swing -->
-<!-- <img width="195px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-swing.gif"> -->
+<img width="245px" height="130px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-swing.gif">
 
 <!-- Head Bang -->
 <!-- <img width="180px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-head-bang.gif"> -->
