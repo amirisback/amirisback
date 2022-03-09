@@ -6,6 +6,10 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
+<!-- Easy Walk -->
+<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-easy-walk.gif">
+<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-easy-walk.gif">
+
 <!-- Super -->
 <!-- <img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super.gif">
 <img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-super.gif">
@@ -29,7 +33,7 @@
 <!-- <img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-run.gif"> -->
 
 <!-- Swing -->
-<img width="245px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-swing.gif">
+<!-- <img width="245px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-swing.gif"> -->
 
 <!-- Head Bang -->
 <!-- <img width="180px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-head-bang.gif"> -->
