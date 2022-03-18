@@ -28,7 +28,7 @@
  -->
  
  <!-- Eating WaterMelon -->
-<img width="180px" height="180px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super-kawai.gif">
+<img width="165px" height="165px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super-kawai.gif">
  
 <!-- Eating WaterMelon -->
 <!-- <img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-eating-water-melon-01.gif"> -->
