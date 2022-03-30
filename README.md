@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="455px" height="400px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-couple-photos.gif">
+   <img width="345px" height="300px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-couple-photos.gif">
 </p>
 
 <!-- # 👋🏻 Welcome To Amir's Open Source Project
