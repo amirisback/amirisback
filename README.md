@@ -38,10 +38,10 @@
 
 
 <!-- Eating WaterMelon -->
-<img width="150px" height="150px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super-kawai.gif">
+<!-- <img width="150px" height="150px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-super-kawai.gif"> -->
 
 <!-- Eating WaterMelon -->
-<!-- <img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-eating-water-melon-01.gif"> -->
+<img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-eating-water-melon-01.gif">
 
 <!-- Run -->
 <!-- <img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-run.gif"> -->
