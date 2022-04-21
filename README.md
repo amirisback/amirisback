@@ -11,8 +11,8 @@
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
 <!-- Dancing Mania -->
-<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing-02.gif">
-<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing-02.gif">
+<!-- <img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing-02.gif">
+<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing-02.gif"> -->
 
 
 <!-- Easy Walk -->
@@ -54,7 +54,7 @@
 <!-- <img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-eating-water-melon-01.gif"> -->
 
 <!-- Run -->
-<!-- <img width="160px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-run.gif"> -->
+<img width="180px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-run.gif">
 
 <!-- Swing -->
 <!-- <img width="245px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-swing.gif"> -->
