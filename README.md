@@ -16,9 +16,8 @@
 
 
 <!-- Easy Walk -->
-
-<!-- <img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-easy-walk.gif">
-<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-easy-walk.gif"> -->
+<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-easy-walk.gif">
+<img width="100px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-easy-walk.gif">
 
  
 <!-- Super -->
@@ -27,10 +26,10 @@
  -->
  
 <!-- Drink Boba -->
-<!--
+<!-- 
 <img width="110px" height="115px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-minum-boba-ditaman.gif">
 <img width="110px" height="115px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-minum-boba-ditaman.gif">
--->
+ -->
 
 <!-- Emotional Damage -->
 <!-- <img width="110px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-nahan-emosi.gif">
@@ -54,7 +53,7 @@
 <!-- <img width="185px" height="100px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-eating-water-melon-01.gif"> -->
 
 <!-- Run -->
-<img width="180px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-run.gif">
+<!-- <img width="180px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/couple/bear-panda-run.gif"> -->
 
 <!-- Swing -->
 <!-- <img width="245px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-panda-swing.gif"> -->
