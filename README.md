@@ -9,10 +9,6 @@
 
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
-<!-- Dancing Mania 2000 -->
-<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing.gif">
-<img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing.gif">
-
 
 <!-- Dancing Mania -->
 <!-- <img width="100px" height="110px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing-02.gif">
@@ -80,3 +76,9 @@
 - Minimum MVVM Sample - [Simple](https://github.com/amirisback/minimum-mvvm), [HTTP Client](https://github.com/amirisback/minimum-mvvm-network-api), [Room Database](https://github.com/amirisback/minimum-mvvm-room-database)
 - Jitpack Library Publishing Guide - [Groovy](https://github.com/amirisback/jitpack-library-groovy-guide), [Kotlin DSL](https://github.com/amirisback/jitpack-library-kotlin-dsl-guide), [Kotlin Library](https://github.com/amirisback/easy-kotlin-lib-jar) 
 - Automated Build Android AAB / APK Using Github Action - [Click Here](https://github.com/amirisback/automated-build-android-app-with-github-action)
+
+<!-- Dancing Mania 2000 -->
+<!-- <span>
+   <img width="100px" height="110px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing.gif">
+   <img width="100px" height="110px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing.gif">
+</span> -->
