@@ -86,5 +86,3 @@
 #### Support Me :rocket:
 - Wall of Fame Angel Sponsor - [Click Here](https://amirisback.github.io/wall-of-fame-angel-sponsor/)
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
-
-[![@faisalamircs's Holopin board](https://holopin.me/faisalamircs)](https://holopin.io/@faisalamircs)
