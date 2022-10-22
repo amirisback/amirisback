@@ -42,14 +42,9 @@ function getReadme() {
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
   
-<img id="imageA" width="110px" height="120px" align="right">
-<img id="imageB" width="110px" height="120px" align="right">
+<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif">
+<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif">
 
-<script>
-    document.getElementById('imageA').src = imageA1[idxImage];
-    document.getElementById('imageB').src = imageB1[idxImage];
-</script>
-  
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
 - Android Code Playground, Android Research - [Click Here](https://github.com/armorycodes)
