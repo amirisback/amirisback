@@ -14,11 +14,11 @@ function getReadme() {
     
     const idx = Math.floor(Math.random() * quotesArray.length)
 
-    const imageA1 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing.gif";
-    const imageA2 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-easy-walk.gif";
+    const imageA1 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif";
+    const imageA2 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-easy-walk.gif";
     
-    const imageB1 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing.gif";
-    const imageB2 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-easy-walk.gif";
+    const imageB1 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif";
+    const imageB2 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-easy-walk.gif";
 
     const imagesA = [
         imageA1,
