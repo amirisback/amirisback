@@ -1,5 +1,5 @@
-const server1 = 'https://amirisback.github.io/'
-const server2 = 'https://xeonidas-xcreator.github.io/'
+const server1 = "https://amirisback.github.io/"; // server1
+const server2 = "https://xeonidas-xcreator.github.io/"; // server2
 
 const data = [
     {
