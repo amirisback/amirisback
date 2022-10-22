@@ -1,4 +1,4 @@
-name: Plant Tree CI
+name: README CI
 
 on:
   push:
@@ -19,10 +19,10 @@ jobs:
       with:
         node-version: '14.x'
     - name: plant a tree in the garden
-      run: node app/garden.js > GARDEN.md
+      run: node app/readme.js > README.md
     - name: Commit change & Push
       run: |
           git config user.name 'amirisback'
           git config user.email 'faisalamircs@gmail.com'
-          git commit -am "plant some tree 🌳"
+          git commit -am "Update README.md"
           git push
