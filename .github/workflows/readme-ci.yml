@@ -1,4 +1,4 @@
-name: README CI
+name: Readme CI
 
 on:
   push:

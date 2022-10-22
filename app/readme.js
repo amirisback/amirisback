@@ -34,9 +34,6 @@ function getReadme() {
 
     const idxImage = Math.floor(Math.random() * imagesA.length)
 
-    document.getElementById('imageA').src = imageA1[idxImage];
-    document.getElementById('imageB').src = imageB1[idxImage];
-
     return `\
 # 👋🏻 Welcome To Amir's Open Source Project
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@faisalamircs)](https://medium.com/@faisalamircs)
@@ -47,6 +44,11 @@ function getReadme() {
   
 <img id="imageA" width="110px" height="120px" align="right">
 <img id="imageB" width="110px" height="120px" align="right">
+
+<script>
+    document.getElementById('imageA').src = imageA1[idxImage];
+    document.getElementById('imageB').src = imageB1[idxImage];
+</script>
   
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
