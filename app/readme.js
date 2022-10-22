@@ -1,10 +1,12 @@
 function getReadme() {
 
     const quotes1 = "“The best way to predict the future is to invent it.” – Alan Kay";
-    const quotes2 = "Fiqry Chowdhury";
-    const quotes3 = "Amir";
-    const quotes4 = "Cool";
+    const quotes2 = "“There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton";
+    const quotes3 = "“I Can Do Whatever I Want Today“";
+    const quotes4 = "“Object-oriented programming languages support encapsulation, thereby improving the ability of software to be reused, refined, tested, maintained, and extended. The full benefit of this support can only be realized if encapsulation is maximized during the design process.“ - Rebecca Wirfs-Brock";
     
+
+
     const quotesArray = [
         quotes1,
         quotes2,
@@ -14,11 +16,11 @@ function getReadme() {
     
     const idx = Math.floor(Math.random() * quotesArray.length)
 
-    const imageA1 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif";
-    const imageA2 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-easy-walk.gif";
+    const imageA1 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif';
+    const imageA2 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-easy-walk.gif';
     
-    const imageB1 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif";
-    const imageB2 = "https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-easy-walk.gif";
+    const imageB1 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif';
+    const imageB2 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-easy-walk.gif';
 
     const imagesA = [
         imageA1,
@@ -41,8 +43,8 @@ function getReadme() {
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
   
-<img width="110px" height="120px" align="right" src=${imageA1[idxImage]}>
-<img width="110px" height="120px" align="right" src=${imageB1[idxImage]}>
+<img width="110px" height="120px" align="right" src="${imageA1[idxImage]}">
+<img width="110px" height="120px" align="right" src="${imageB1[idxImage]}">
   
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
