@@ -41,8 +41,8 @@ function getReadme() {
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
   
-<img width="110px" height="120px" align="right" src="${imageA1[idxImage]}">
-<img width="110px" height="120px" align="right" src="${imageB1[idxImage]}">
+<img width="110px" height="120px" align="right" src=${imageA1[idxImage]}>
+<img width="110px" height="120px" align="right" src=${imageB1[idxImage]}>
   
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
