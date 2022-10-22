@@ -5,8 +5,8 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
   
-<img width="110px" height="120px" align="right" src="h">
-<img width="110px" height="120px" align="right" src="h">
+<img width="110px" height="120px" align="right" src=h>
+<img width="110px" height="120px" align="right" src=h>
   
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> Fiqry Chowdhury
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 
