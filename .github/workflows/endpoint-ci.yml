@@ -19,7 +19,7 @@ jobs:
       with:
         node-version: '14.x'
     - name: Update API data.json
-      run: node app/endpoint.js > data.json
+      run: node app/endpoint.js > app/api/v1/data.json
     - name: Sync Repository
       run: |
           git config user.name 'amirisback'
