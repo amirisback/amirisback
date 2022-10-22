@@ -4,8 +4,6 @@ function getReadme() {
     const quotes2 = "“There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton";
     const quotes3 = "“I Can Do Whatever I Want Today“";
     const quotes4 = "“Object-oriented programming languages support encapsulation, thereby improving the ability of software to be reused, refined, tested, maintained, and extended. The full benefit of this support can only be realized if encapsulation is maximized during the design process.“ - Rebecca Wirfs-Brock";
-    
-
 
     const quotesArray = [
         quotes1,

@@ -3,14 +3,14 @@ const server2 = 'https://xeonidas-xcreator.github.io/'
 
 const data = [
     {
-        base_url: server1,
-        social_media: "",
-        link: ""
+        "base_url": server1,
+        "social_media": "",
+        "link": ""
     },
     {
-        base_url: server2,
-        social_media: "",
-        link: "" 
+        "base_url": server2,
+        "social_media": "",
+        "link": "" 
     }      
 ]
 
