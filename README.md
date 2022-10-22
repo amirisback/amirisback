@@ -23,6 +23,6 @@
     - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
     
     #### Quotes For Today
-    > Cool
+    > Amir
 
     
