@@ -1,9 +1,9 @@
 function getReadme() {
 
-    var quotes1 = "“The best way to predict the future is to invent it.” – Alan Kay";
-    var quotes2 = "Fiqry Chowdhury";
-    var quotes3 = "Amir";
-    var quotes4 = "Cool";
+    const quotes1 = "“The best way to predict the future is to invent it.” – Alan Kay";
+    const quotes2 = "Fiqry Chowdhury";
+    const quotes3 = "Amir";
+    const quotes4 = "Cool";
     
     const quotesArray = [
         quotes1,
@@ -14,6 +14,24 @@ function getReadme() {
     
     const idx = Math.floor(Math.random() * quotesArray.length)
 
+    const imageA1 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing.gif";
+    const imageA2 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-easy-walk.gif";
+    
+    const imageB1 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing.gif";
+    const imageB2 = "https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-easy-walk.gif";
+
+    const imagesA = [
+        imageA1,
+        imageA2
+    ]
+
+    const imagesB = [
+        imageB1,
+        imageB2
+    ]
+
+    const idxImage = Math.floor(Math.random() * imagesA.length)
+
 
     return `\
 # 👋🏻 Welcome To Amir's Open Source Project
@@ -23,8 +41,8 @@ function getReadme() {
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
   
-<img width="110px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing.gif">
-<img width="110px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing.gif">
+<img width="110px" height="120px" align="right" src="${imageA1[idxImage]}">
+<img width="110px" height="120px" align="right" src="${imageB1[idxImage]}">
   
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
