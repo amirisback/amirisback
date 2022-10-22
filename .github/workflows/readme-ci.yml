@@ -5,7 +5,7 @@ on:
     branches: master
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */24 * * *'
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
         node-version: '14.x'
     - name: Update Readme Page
       run: node app/readme.js > README.md
-    - name: Commit change & Push
+    - name: Sync Repository
       run: |
           git config user.name 'amirisback'
           git config user.email 'faisalamircs@gmail.com'

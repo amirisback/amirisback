@@ -1,4 +1,4 @@
-name: Plant Tree CI
+name: Endpoint CI
 
 on:
   push:
@@ -18,12 +18,12 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '14.x'
-    - name: Plant a tree in the garden
-      run: node app/garden.js > GARDEN.md
+    - name: Update API data.json
+      run: node app/endpoint.js > data.json
     - name: Sync Repository
       run: |
           git config user.name 'amirisback'
           git config user.email 'faisalamircs@gmail.com'
           git pull
-          git commit -am "Plant some tree 🌳"
+          git commit -am "Update README.md"
           git push
