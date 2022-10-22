@@ -16,12 +16,12 @@ function getReadme() {
 
 
     return `\
-    # 👋🏻 Welcome To Amir's Open Source Project
+# 👋🏻 Welcome To Amir's Open Source Project
     [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@faisalamircs)](https://medium.com/@faisalamircs)
     [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
     [![Google Badge](https://img.shields.io/badge/Google%20Dev%20Library-amirisback-orange?style=flat-square)](https://devlibrary.withgoogle.com/authors/amirisback)
     
-    #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
+#### What are Amir doing? Amir crafting some cool apps and libraries 🔨
       
     <img width="110px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-funny-dancing.gif">
     <img width="110px" height="120px" align="right" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-funny-dancing.gif">
