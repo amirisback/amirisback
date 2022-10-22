@@ -18,7 +18,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: '14.x'
-    - name: plant a tree in the garden
+    - name: Update Readme Page
       run: node app/readme.js > README.md
     - name: Commit change & Push
       run: |

@@ -1,8 +1,20 @@
-import {dataQuotes, text_link_github} from './string.js';
+function getReadme() {
 
-const idx = Math.floor(Math.random() * dataQuotes.length)
+    var quotes1 = "“The best way to predict the future is to invent it.” – Alan Kay";
+    var quotes2 = "Fiqry Chowdhury";
+    var quotes3 = "Amir";
+    var quotes4 = "Cool";
+    
+    const quotesArray = [
+        quotes1,
+        quotes2,
+        quotes3,
+        quotes4
+    ];
+    
+    const idx = Math.floor(Math.random() * dataQuotes.length)
 
-function getReadme(quotes) {
+
     return `\
     # 👋🏻 Welcome To Amir's Open Source Project
     [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@faisalamircs)](https://medium.com/@faisalamircs)
@@ -29,10 +41,10 @@ function getReadme(quotes) {
     - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
     
     #### Quotes For Today
-    > ${quotes}
+    > ${quotesArray[idx]}
 
     `
 }
 
 
-console.log(getReadme(dataQuotes[idx]))
+console.log(getReadme())
