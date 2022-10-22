@@ -12,7 +12,7 @@ function getReadme() {
         quotes4
     ];
     
-    const idx = Math.floor(Math.random() * dataQuotes.length)
+    const idx = Math.floor(Math.random() * quotesArray.length)
 
 
     return `\
