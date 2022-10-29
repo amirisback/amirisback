@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
+> “Object-oriented programming languages support encapsulation, thereby improving the ability of software to be reused, refined, tested, maintained, and extended. The full benefit of this support can only be realized if encapsulation is maximized during the design process.“ - Rebecca Wirfs-Brock
 
 
