@@ -3,7 +3,7 @@ name: Plant Tree CI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '* * * * */3'
 
 jobs:
   build:
