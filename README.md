@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
 
 
