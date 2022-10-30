@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
+> “I Can Do Whatever I Want Today“
 
 
