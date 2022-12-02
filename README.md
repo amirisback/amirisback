@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “I Can Do Whatever I Want Today“
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 
