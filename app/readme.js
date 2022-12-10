@@ -67,11 +67,11 @@ function getReadme() {
     
     const idx = Math.floor(Math.random() * quotesArray.length)
 
-    const imageA1 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif';
-    const imageA2 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-easy-walk.gif';
+    const imageA1 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing-02.gif">';
+    const imageA2 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing-02.gif">';
     
-    const imageB1 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif';
-    const imageB2 = 'https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-easy-walk.gif';
+    const imageB1 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif">';
+    const imageB2 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing-02.gif">';
 
     const imagesA = [
         imageA1,
@@ -92,9 +92,9 @@ function getReadme() {
 [![Google Badge](https://img.shields.io/badge/Google%20Dev%20Library-amirisback-orange?style=flat-square)](https://devlibrary.withgoogle.com/authors/amirisback)
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
-  
-<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif">
-<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif">
+
+${imagesA[idxImage]}
+${imagesB[idxImage]}
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
