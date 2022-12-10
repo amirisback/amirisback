@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” by Martin Fowler.
+> “Design and programming are human activities; forget that and all is lost” by Bjarne Stroustrup.
 
 
