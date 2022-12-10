@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “Software is like sex. It’s better when it’s free.” by Linus Torvalds.
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” by Martin Fowler.
 
 
