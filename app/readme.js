@@ -93,8 +93,8 @@ function getReadme() {
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-${imagesA[idxImage]}
 ${imagesB[idxImage]}
+${imagesA[idxImage]}
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
