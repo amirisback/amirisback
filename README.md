@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “Design and programming are human activities; forget that and all is lost” by Bjarne Stroustrup.
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 
