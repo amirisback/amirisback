@@ -5,7 +5,7 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif">
+<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing-02.gif">
 <img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing-02.gif">
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “You must excuse my gruff conduct,” the watchdog said, after they’d been driving for some time, “but you see it’s traditional for watchdogs to be ferocious.” ― Robert C. Martin, Clean Architecture 
+> “Engineering is a profession that can do the job of almost all other professions.” ― Amit Kalantri, Wealth of Words
 
 
