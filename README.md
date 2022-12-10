@@ -23,6 +23,6 @@
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
 
 #### Quotes For Today
-> “I Can Do Whatever I Want Today“
+> “Software is like sex. It’s better when it’s free.” by Linus Torvalds.
 
 
