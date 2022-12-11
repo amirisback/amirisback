@@ -67,20 +67,53 @@ function getReadme() {
     
     const idx = Math.floor(Math.random() * quotesArray.length)
 
-    const imageA1 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing-02.gif">';
+    const imageA1 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif">';
     const imageA2 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing-02.gif">';
+    const imageA3 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-chicken.gif">';
+    const imageA4 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-01.gif">';
+    const imageA5 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-02.gif">';
+    const imageA6 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-03.gif">';
+    const imageA7 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-easy-walk.gif">';
+    const imageA8 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-rope.gif">';
+    const imageA9 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-nahan-emosi.gif">';
+    const imageA10 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-wizard.gif">';
+    
     
     const imageB1 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif">';
     const imageB2 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing-02.gif">';
+    const imageB3 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-chicken.gif">';
+    const imageB4 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-01.gif">';
+    const imageB5 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-02.gif">';
+    const imageB6 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-03.gif">';
+    const imageB7 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-easy-walk.gif">';
+    const imageB8 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">';
+    const imageB9 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-nahan-emosi.gif">';
+    const imageB10 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-wizard.gif">';
 
     const imagesA = [
         imageA1,
-        imageA2
+        imageA2,
+        imageA3,
+        imageA4,
+        imageA5,
+        imageA6,
+        imageA7,
+        imageA8,
+        imageA9,
+        imageA10
     ]
 
     const imagesB = [
         imageB1,
-        imageB2
+        imageB2,
+        imageB3,
+        imageB4,
+        imageB5,
+        imageB6,
+        imageB7,
+        imageB8,
+        imageB9,
+        imageB10
     ]
 
     const idxImage = Math.floor(Math.random() * imagesA.length)
