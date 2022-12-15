@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Smart data structures and dumb code works a lot better than the other way around.” by Eric S Raymond.
+> “Software is like sex. It’s better when it’s free.” by Linus Torvalds.
 
 
