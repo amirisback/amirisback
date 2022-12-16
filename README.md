@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Poor management can increase software costs more rapidly than any other factor.” by Barry Boehm.
+> “Software and cathedrals are much the same; first we build them, then we pray.” by Anonymous.
 
 
