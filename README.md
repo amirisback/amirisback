@@ -5,8 +5,8 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-nahan-emosi.gif">
-<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-nahan-emosi.gif">
+<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-02.gif">
+<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-02.gif">
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Software and cathedrals are much the same; first we build them, then we pray.” by Anonymous.
+> “Smart data structures and dumb code works a lot better than the other way around.” by Eric S Raymond.
 
 
