@@ -72,11 +72,9 @@ function getReadme() {
     const imageA3 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-chicken.gif">';
     const imageA4 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-01.gif">';
     const imageA5 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-02.gif">';
-    const imageA6 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-03.gif">';
-    const imageA7 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-easy-walk.gif">';
-    const imageA8 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-rope.gif">';
-    const imageA9 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-nahan-emosi.gif">';
-    const imageA10 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-wizard.gif">';
+    const imageA6 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-easy-walk.gif">';
+    const imageA7 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-rope.gif">';
+    const imageA8 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-wizard.gif">';
     
     
     const imageB1 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif">';
@@ -84,11 +82,9 @@ function getReadme() {
     const imageB3 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-chicken.gif">';
     const imageB4 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-01.gif">';
     const imageB5 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-02.gif">';
-    const imageB6 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-03.gif">';
-    const imageB7 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-easy-walk.gif">';
-    const imageB8 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">';
-    const imageB9 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-nahan-emosi.gif">';
-    const imageB10 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-wizard.gif">';
+    const imageB6 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-easy-walk.gif">';
+    const imageB7 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">';
+    const imageB8 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-wizard.gif">';
 
     const imagesA = [
         imageA1,
@@ -98,9 +94,7 @@ function getReadme() {
         imageA5,
         imageA6,
         imageA7,
-        imageA8,
-        imageA9,
-        imageA10
+        imageA8
     ]
 
     const imagesB = [
@@ -111,9 +105,7 @@ function getReadme() {
         imageB5,
         imageB6,
         imageB7,
-        imageB8,
-        imageB9,
-        imageB10
+        imageB8
     ]
 
     const idxImage = Math.floor(Math.random() * imagesA.length)
