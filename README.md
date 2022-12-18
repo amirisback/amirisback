@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
+> “Computer programs are the most complex things that humans make” by Douglas Crockford.
 
 
