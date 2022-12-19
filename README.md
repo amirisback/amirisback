@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Smart data structures and dumb code works a lot better than the other way around.” by Eric S Raymond.
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in” by Edsger Dijkstra.
 
 
