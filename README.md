@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
+> “To be a programmer is to develop a carefully managed relationship with error. There’s no getting around it. You either make your accommodations with failure, or the work will become intolerable.” by Ellen Ullman.
 
 
