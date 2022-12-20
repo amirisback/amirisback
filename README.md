@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “The biggest issue on software teams is making sure everyone understands what everyone else is doing.” by Martin Fowler.
 
 
