@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The wages of sin is debugging” by Ron Jeffries.
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 
