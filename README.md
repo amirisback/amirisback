@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The biggest issue on software teams is making sure everyone understands what everyone else is doing.” by Martin Fowler.
+> “Real programmers can write assembly code in any language.” by Larry Wall.
 
 
