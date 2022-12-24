@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
+> “Engineering is a profession that can do the job of almost all other professions.” ― Amit Kalantri, Wealth of Words
 
 
