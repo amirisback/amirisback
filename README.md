@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Real programmers can write assembly code in any language.” by Larry Wall.
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in” by Edsger Dijkstra.
 
 
