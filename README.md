@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Software and cathedrals are much the same; first we build them, then we pray.” by Anonymous.
+> “The function of good software is to make the complex appear to be simple” by Grady Booch.
 
 
