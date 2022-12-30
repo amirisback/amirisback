@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The wages of sin is debugging” by Ron Jeffries.
+> “Adding manpower to a late software project makes it later.” by Fred Brook
 
 
