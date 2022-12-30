@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “9 women cannot make a baby in one month.” by Fred Brooks.
+> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
 
 
