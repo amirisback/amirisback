@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Any program is only as good as it is useful.” by Linus Torvalds.
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” by Martin Fowler.
 
 
