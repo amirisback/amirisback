@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Engineering is a profession that can do the job of almost all other professions.” ― Amit Kalantri, Wealth of Words
+> “The wages of sin is debugging” by Ron Jeffries.
 
 
