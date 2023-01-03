@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
+> “Design and programming are human activities; forget that and all is lost” by Bjarne Stroustrup.
 
 
