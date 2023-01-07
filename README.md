@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Good programmers use their brains, but good guidelines save us having to think out every case.” by Francis Glassborow.
+> “9 women cannot make a baby in one month.” by Fred Brooks.
 
 
