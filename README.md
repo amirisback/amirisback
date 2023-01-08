@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Engineering is a profession that can do the job of almost all other professions.” ― Amit Kalantri, Wealth of Words
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in” by Edsger Dijkstra.
 
 
