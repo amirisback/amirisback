@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Engineering is a profession that can do the job of almost all other professions.” ― Amit Kalantri, Wealth of Words
+> “Good programmers use their brains, but good guidelines save us having to think out every case.” by Francis Glassborow.
 
 
