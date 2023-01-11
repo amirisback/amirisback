@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “People are inherently imperfect - we like to say that humans are mostly a collection of intermittent bugs. But before you can understand the bugs in your coworkers, you need to understand the bugs in yourself. We’re going to ask you to think about your own reactions, behaviors, and attitudes - and in return, we hope you gain some real insight into how to become a more efficient and successful software engineer who spends less energy dealing with people-related problems and more time writing great code.” ― Titus Winters,
+> “You must excuse my gruff conduct,” the watchdog said, after they’d been driving for some time, “but you see it’s traditional for watchdogs to be ferocious.” ― Robert C. Martin, Clean Architecture 
 
 
