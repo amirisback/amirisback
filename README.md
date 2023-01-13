@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “9 women cannot make a baby in one month.” by Fred Brooks.
+> “The function of good software is to make the complex appear to be simple” by Grady Booch.
 
 
