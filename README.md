@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in” by Edsger Dijkstra.
 
 
