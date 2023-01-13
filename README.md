@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Any program is only as good as it is useful.” by Linus Torvalds.
+> “Adding manpower to a late software project makes it later.” by Fred Brook
 
 
