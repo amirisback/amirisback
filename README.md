@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Code should run as fast as necessary, but no faster; something important is always traded away to increase speed.” by Richard E. Pattis.
+> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
 
 
