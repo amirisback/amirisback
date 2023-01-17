@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “If it hurts, do it more frequently, and bring the pain forward.” ― Jez Humble
+> “Design and programming are human activities; forget that and all is lost” by Bjarne Stroustrup.
 
 
