@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” by Martin Fowler.
+> “Adding manpower to a late software project makes it later.” by Fred Brook
 
 
