@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “A language that doesn't affect the way you think about programming is not worth knowing” by Alan Perlis.
+> “Real programmers can write assembly code in any language.” by Larry Wall.
 
 
