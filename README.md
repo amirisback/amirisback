@@ -5,8 +5,8 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">
-<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-rope.gif">
+<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing-02.gif">
+<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing-02.gif">
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Amir's Campus Course Material - [Click Here](https://github.com/search?p=1&q=topic%3Akuliah+org%3Acaravancodes+fork%3Atrue&type=Repositories)
@@ -15,7 +15,7 @@
 - Android Programmer Interview Cheat Sheet - [Click Here](https://amirisback.github.io/android-programmer-interview-cheat-sheet/)
 
 #### Project Code Sample Implementation
-- Minimum MVVM ([Koin](https://github.com/InsertKoinIO/koin)) Sample - [Simple](https://github.com/amirisback/minimum-mvvm), [HTTP Client](https://github.com/amirisback/minimum-mvvm-network-api), [Room Database](https://github.com/amirisback/minimum-mvvm-room-database)
+- Minimum MVVM ([Koin](https://github.com/InsertKoinIO/koin)) Sample - [Simple](https://github.com/amirisback/minimum-mvvm-koin), [HTTP Client](https://github.com/amirisback/minimum-mvvm-koin-network-api), [Room Database](https://github.com/amirisback/minimum-mvvm-koin-room-database)
 - Minimum MVVM ([Dagger-Hilt](https://dagger.dev/hilt/gradle-setup)) Sample - [Simple](https://github.com/amirisback/minimum-mvvm-hilt), [HTTP Client](https://github.com/amirisback/minimum-mvvm-hilt-network-api), [Room Database](https://github.com/amirisback/minimum-mvvm-hilt-room-database)
 - Jitpack Library Publishing Guide - [Groovy](https://github.com/amirisback/jitpack-library-groovy-guide), [Kotlin DSL](https://github.com/amirisback/jitpack-library-kotlin-dsl-guide), [Kotlin Library](https://github.com/amirisback/easy-kotlin-lib-jar) 
 - Automated Build Android AAB / APK Using Github Action - [Click Here](https://github.com/amirisback/automated-build-android-app-with-github-action)
@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “You must excuse my gruff conduct,” the watchdog said, after they’d been driving for some time, “but you see it’s traditional for watchdogs to be ferocious.” ― Robert C. Martin, Clean Architecture 
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 
