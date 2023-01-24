@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Adding manpower to a late software project makes it later.” by Fred Brook
+> “The biggest issue on software teams is making sure everyone understands what everyone else is doing.” by Martin Fowler.
 
 
