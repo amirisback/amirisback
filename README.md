@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Real programmers can write assembly code in any language.” by Larry Wall.
+> “Design and programming are human activities; forget that and all is lost” by Bjarne Stroustrup.
 
 
