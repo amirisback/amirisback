@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “If it hurts, do it more frequently, and bring the pain forward.” ― Jez Humble
+> “Computer programs are the most complex things that humans make” by Douglas Crockford.
 
 
