@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Code should run as fast as necessary, but no faster; something important is always traded away to increase speed.” by Richard E. Pattis.
+> “Any program is only as good as it is useful.” by Linus Torvalds.
 
 
