@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Poor management can increase software costs more rapidly than any other factor.” by Barry Boehm.
+> “9 women cannot make a baby in one month.” by Fred Brooks.
 
 
