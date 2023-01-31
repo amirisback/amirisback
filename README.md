@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Engineering is a profession that can do the job of almost all other professions.” ― Amit Kalantri, Wealth of Words
+> “Real programmers can write assembly code in any language.” by Larry Wall.
 
 
