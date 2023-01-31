@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Software is like sex. It’s better when it’s free.” by Linus Torvalds.
+> “The wages of sin is debugging” by Ron Jeffries.
 
 
