@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
+> “Adding manpower to a late software project makes it later.” by Fred Brook
 
 
