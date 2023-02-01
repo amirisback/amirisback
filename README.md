@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Smart data structures and dumb code works a lot better than the other way around.” by Eric S Raymond.
+> “Time pressure gradually corrupts an engineer’s standard of quality and perfection. It has a detrimental effect on people as well as products.” by Niklaus Wirth.
 
 
