@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Design and programming are human activities; forget that and all is lost” by Bjarne Stroustrup.
+> “Adding last-minute features, whether in response to competitive pressure, as a developer’s pet feature, or on the whim of management, causes more bugs in software than almost anything else.” by John Robbins.
 
 
