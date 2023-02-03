@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The function of good software is to make the complex appear to be simple” by Grady Booch.
+> “Smart data structures and dumb code works a lot better than the other way around.” by Eric S Raymond.
 
 
