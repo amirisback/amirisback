@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Real programmers can write assembly code in any language.” by Larry Wall.
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” by Martin Fowler.
 
 
