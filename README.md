@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Good programmers use their brains, but good guidelines save us having to think out every case.” by Francis Glassborow.
+> “Software is like sex. It’s better when it’s free.” by Linus Torvalds.
 
 
