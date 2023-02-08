@@ -27,6 +27,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Software and cathedrals are much the same; first we build them, then we pray.” by Anonymous.
+> “Time pressure gradually corrupts an engineer’s standard of quality and perfection. It has a detrimental effect on people as well as products.” by Niklaus Wirth.
 
 
