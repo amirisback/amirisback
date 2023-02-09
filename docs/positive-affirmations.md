@@ -1,6 +1,0 @@
-- Aku bisa menikahi Septian Dwi Arini Widyastuti
-- Aku bisa menaikan haji semua keluarga ku
-- Aku bisa mendapatkan uang dengan mudah
-- Aku bisa menghasilkan 50jt / bulan
-- Aku suka bersedekah
-- Aku bisa mendapatkan rezeki yang berkah barokah
