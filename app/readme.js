@@ -121,7 +121,6 @@ ${imagesB[idxImage]}
 ${imagesA[idxImage]}
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
-- Amir's Campus Course Material - [Click Here](https://github.com/search?p=1&q=topic%3Akuliah+org%3Acaravancodes+fork%3Atrue&type=Repositories)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
 - Android Code Playground, Android Research - [Click Here](https://github.com/armorycodes)
 - Android Programmer Interview Cheat Sheet - [Click Here](https://amirisback.github.io/android-programmer-interview-cheat-sheet/)
