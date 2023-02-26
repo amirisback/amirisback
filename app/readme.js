@@ -73,8 +73,8 @@ function getReadme() {
     const imageA4 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-02.gif">';
     const imageA5 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-rope.gif">';
     const imageA6 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-skipping.gif">';
-    const imageA7 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-ngambul.gif">';
-    const imageA8 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-jalan.gif">';
+    const imageA7 = '<img id="imageB" width="86px" height="138px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-ngambul.gif">';
+    const imageA8 = '<img id="imageB" width="98px" height="140px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-jalan.gif">';
     
     const imageB1 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing.gif">';
     const imageB2 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-funny-dancing-02.gif">';
@@ -82,8 +82,8 @@ function getReadme() {
     const imageB4 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-02.gif">';
     const imageB5 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">';
     const imageB6 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-skipping.gif">';
-    const imageB7 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-ngambul.gif">';
-    const imageB8 = '<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-jalan.gif">';
+    const imageB7 = '<img id="imageA" width="85px" height="138px " align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-ngambul.gif">';
+    const imageB8 = '<img id="imageA" width="85px" height="140px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-jalan.gif">';
 
     const imagesA = [
         imageA1,
