@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Computer programs are the most complex things that humans make” by Douglas Crockford.
+> “I Can Do Whatever I Want Today“
 
 
