@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “I Can Do Whatever I Want Today“
 
 
