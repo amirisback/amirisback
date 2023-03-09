@@ -5,7 +5,7 @@ on:
     branches: master
   workflow_dispatch:
   schedule:
-  - cron: '0 0 */30 * *'
+  - cron: '0 0 */1 * *'
 
 jobs:
   build:
@@ -24,5 +24,11 @@ jobs:
       run: |
           git config user.name 'amirisback'
           git config user.email 'faisalamircs@gmail.com'
-          git commit -am "Update README.md"
+          git commit -am "Update README.md
+          
+          
+          Co-authored-by: Hudio Hizari <hhizari@gmail.com>
+          Co-authored-by: castariva18 <tengku13elmiro@gmail.com>
+          Co-authored-by: fiqryq <fiqrychoerudin48@gmail.com>
+          "
           git push
