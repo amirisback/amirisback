@@ -150,11 +150,11 @@ function getReadme() {
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
 [![Google Badge](https://img.shields.io/badge/Google%20Dev%20Library-amirisback-orange?style=flat-square)](https://devlibrary.withgoogle.com/authors/amirisback)
 
-<!-- #### Support Me 💖 :rocket: -->
-#### Support Me :rocket:
-
 ${imagesB[idxImage]}
 ${imagesA[idxImage]}
+
+<!-- #### Support Me 💖 :rocket: -->
+#### Support Me :rocket:
 
 - Wall of Fame Angel Sponsor - [Click Here](https://amirisback.github.io/wall-of-fame-angel-sponsor/)
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
