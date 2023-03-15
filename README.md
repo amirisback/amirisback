@@ -3,11 +3,11 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
 [![Google Badge](https://img.shields.io/badge/Google%20Dev%20Library-amirisback-orange?style=flat-square)](https://devlibrary.withgoogle.com/authors/amirisback)
 
+<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-01.gif">
+<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-01.gif">
+
 <!-- #### Support Me 💖 :rocket: -->
 #### Support Me :rocket:
-
-<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-02.gif">
-<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-02.gif">
 
 - Wall of Fame Angel Sponsor - [Click Here](https://amirisback.github.io/wall-of-fame-angel-sponsor/)
 - Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
