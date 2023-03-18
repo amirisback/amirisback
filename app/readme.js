@@ -142,5 +142,6 @@ ${imagesA[idxImage]}
 > ${quotesArray[idx]}
 
 `
+}
 
 console.log(getReadme())
