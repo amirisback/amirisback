@@ -65,7 +65,7 @@ function getReadme() {
         quotes30
     ];
     
-    // const idx = Math.floor(Math.random() * quotesArray.length)
+    const idx = Math.floor(Math.random() * quotesArray.length)
 
     const imageA1 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing.gif">';
     const imageA2 = '<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-funny-dancing-02.gif">';
