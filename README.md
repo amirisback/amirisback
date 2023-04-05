@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Code should run as fast as necessary, but no faster; something important is always traded away to increase speed.” by Richard E. Pattis.
+> “Real programmers can write assembly code in any language.” by Larry Wall.
 
 
