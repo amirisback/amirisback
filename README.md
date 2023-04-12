@@ -5,8 +5,8 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-02.gif">
-<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-02.gif">
+<img id="imageA" width="120px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-skipping.gif">
+<img id="imageB" width="120px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-skipping.gif">
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The biggest issue on software teams is making sure everyone understands what everyone else is doing.” by Martin Fowler.
+> “Good programmers use their brains, but good guidelines save us having to think out every case.” by Francis Glassborow.
 
 
