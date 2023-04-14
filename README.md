@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in” by Edsger Dijkstra.
+> “The best way to predict the future is to invent it.” – Alan Kay
 
 
