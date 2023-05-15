@@ -5,8 +5,8 @@
 
 #### What are Amir doing? Amir crafting some cool apps and libraries 🔨
 
-<img id="imageA" width="93px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-ngambul.gif">
-<img id="imageB" width="93px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-ngambul.gif">
+<img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-idle-position-01.gif">
+<img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-idle-position-01.gif">
 
 - Amir's Awesome Project and Libraries - [Click Here](https://github.com/amirisback/awesome-project-catalogue)
 - Kotlin Desktop Experimental - [Click Here](https://github.com/amirisback/desktop-experimental-catalgoue)
@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “People are inherently imperfect - we like to say that humans are mostly a collection of intermittent bugs. But before you can understand the bugs in your coworkers, you need to understand the bugs in yourself. We’re going to ask you to think about your own reactions, behaviors, and attitudes - and in return, we hope you gain some real insight into how to become a more efficient and successful software engineer who spends less energy dealing with people-related problems and more time writing great code.” ― Titus Winters,
+> “The function of good software is to make the complex appear to be simple” by Grady Booch.
 
 
