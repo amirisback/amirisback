@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The function of good software is to make the complex appear to be simple” by Grady Booch.
+> “If debugging is the process of removing software bugs, then programming must be the process of putting them in” by Edsger Dijkstra.
 
 
