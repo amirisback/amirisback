@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “If it hurts, do it more frequently, and bring the pain forward.” ― Jez Humble
+> “I Can Do Whatever I Want Today“
 
 
