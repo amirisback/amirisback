@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “Adding last-minute features, whether in response to competitive pressure, as a developer’s pet feature, or on the whim of management, causes more bugs in software than almost anything else.” by John Robbins.
 
 
