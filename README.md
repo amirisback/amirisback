@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Any program is only as good as it is useful.” by Linus Torvalds.
+> “Poor management can increase software costs more rapidly than any other factor.” by Barry Boehm.
 
 
