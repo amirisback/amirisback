@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Time pressure gradually corrupts an engineer’s standard of quality and perfection. It has a detrimental effect on people as well as products.” by Niklaus Wirth.
+> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
 
 
