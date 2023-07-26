@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Poor management can increase software costs more rapidly than any other factor.” by Barry Boehm.
+> “Good programmers use their brains, but good guidelines save us having to think out every case.” by Francis Glassborow.
 
 
