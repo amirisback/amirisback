@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Software is like sex. It’s better when it’s free.” by Linus Torvalds.
+> “I Can Do Whatever I Want Today“
 
 
