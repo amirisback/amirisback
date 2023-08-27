@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “The wages of sin is debugging” by Ron Jeffries.
+> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
 
 
