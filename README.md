@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” by Martin Fowler.
+> “Code should run as fast as necessary, but no faster; something important is always traded away to increase speed.” by Richard E. Pattis.
 
 
