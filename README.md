@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in” by Edsger Dijkstra.
+> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
 
 
