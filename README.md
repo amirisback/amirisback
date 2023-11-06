@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “9 women cannot make a baby in one month.” by Fred Brooks.
+> “The biggest issue on software teams is making sure everyone understands what everyone else is doing.” by Martin Fowler.
 
 
