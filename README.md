@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “You must excuse my gruff conduct,” the watchdog said, after they’d been driving for some time, “but you see it’s traditional for watchdogs to be ferocious.” ― Robert C. Martin, Clean Architecture 
+> “Design and programming are human activities; forget that and all is lost” by Bjarne Stroustrup.
 
 
