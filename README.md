@@ -26,6 +26,6 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Quotes For Today
-> “A language that doesn't have everything is actually easier to program in than some that do.” by Dennis Ritchie.
+> “There are only two hard things in Computer Science: cache invalidation and naming things.” – Phil Karlton
 
 
