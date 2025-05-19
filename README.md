@@ -43,3 +43,7 @@
 #### Quotes For Today
 > “Adding last-minute features, whether in response to competitive pressure, as a developer’s pet feature, or on the whim of management, causes more bugs in software than almost anything else.” by John Robbins.
 
+
+
+https://github.com/user-attachments/assets/05eb489d-3026-4e65-9eba-e3dcae29c23e
+
