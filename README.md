@@ -1,17 +1,3 @@
-<!--
-# 👋🏻 Welcome To Amir's Open Source Project
-[![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@faisalamircs)](https://medium.com/@faisalamircs)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
-[![Google Badge](https://img.shields.io/badge/Google%20Dev%20Library-amirisback-orange?style=flat-square)](https://devlibrary.withgoogle.com/authors/amirisback)
-
-#### Support Me :rocket:
-- Wall of Fame Angel Sponsor - [Click Here](https://amirisback.github.io/wall-of-fame-angel-sponsor/)
-- Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
-- Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
--->
-
-
-
 # 👋🏻 Welcome To Amir's Open Source Project
 [![Medium Badge](https://img.shields.io/badge/-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@faisalamircs)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square)](https://android-arsenal.com/user/amirisback)
@@ -21,6 +7,14 @@
 
 #### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Support Me :rocket:
+- Wall of Fame Angel Sponsor - [Click Here](https://amirisback.github.io/wall-of-fame-angel-sponsor/)
+- Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
+- Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
+
+#### Quotes For Today
+> “Huh !!!” by Meme Cat.
 
 <!--
 <img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">
@@ -37,16 +31,6 @@
 - Minimum MVVM ([Dagger-Hilt](https://dagger.dev/hilt/gradle-setup)) Sample - [Simple](https://github.com/amirisback/minimum-mvvm-hilt), [HTTP Client](https://github.com/amirisback/minimum-mvvm-hilt-network-api), [Room Database](https://github.com/amirisback/minimum-mvvm-hilt-room-database)
 - Jitpack Library Publishing Guide - [Groovy](https://github.com/amirisback/jitpack-library-groovy-guide), [Kotlin DSL](https://github.com/amirisback/jitpack-library-kotlin-dsl-guide), [Kotlin Library](https://github.com/amirisback/easy-kotlin-lib-jar) 
 - Automated Build Android AAB / APK Using Github Action - [Click Here](https://github.com/amirisback/automated-build-android-app-with-github-action)
-
-
-
-#### Support Me :rocket:
-- Wall of Fame Angel Sponsor - [Click Here](https://amirisback.github.io/wall-of-fame-angel-sponsor/)
-- Sponsors Pages - [Click Here](https://github.com/sponsors/amirisback)
-- Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
-
-#### Quotes For Today
-> “Huh !!!” by Meme Cat.
 
 -->
 <!--
