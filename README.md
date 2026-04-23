@@ -15,10 +15,7 @@
 - Project Open Sources - [Click Here](https://github.com/users/amirisback/projects/17)
 
 #### Usefull Repository For Me (2nd Server)
-- Util [Click Here](https://github.com/amirisback/util)
-
-#### Quotes For Today
-> “Huh !!!” by Meme Cat.
+- Util - [Click Here](https://github.com/amirisback/util)
 
 <!--
 <img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">
