@@ -4,7 +4,9 @@
 [![Google Badge](https://img.shields.io/badge/Google%20Dev%20Library-amirisback-orange?style=flat-square&logo=Google&logoColor=white)](https://devlibrary.withgoogle.com/authors/amirisback)
 [![JetBrains Plugins](https://img.shields.io/badge/JetBrains%20Plugins-amirisback-blue?style=flat-square&logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/vendor/faisal-amir-github)
 
-#### What are Amir doing? Amir crafting some cool apps and libraries 🔨
+#### What are Amir doing? ZzZz
+
+<!--
 
 #### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,6 +18,9 @@
 
 #### Usefull Repository For Me (2nd Server)
 - Util - [Click Here](https://github.com/amirisback/util)
+-->
+
+
 <!--
 <img id="imageA" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/panda-rope.gif">
 <img id="imageB" width="110px" height="120px" align="right" src="https://amirisback.github.io/amirisback/docs/image/bear-panda/bear-rope.gif">
