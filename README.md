@@ -1,3 +1,5 @@
+<!--
+
 # 👋🏻 Welcome To Amir's Open Source Project
 [![Medium Badge](https://img.shields.io/badge/Medium-faisalamircs-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@faisalamircs)](https://medium.com/@faisalamircs)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-amirisback-brightgreen.svg?style=flat-square&logo=Android&logoColor=white)](https://android-arsenal.com/user/amirisback)
@@ -5,6 +7,8 @@
 [![JetBrains Plugins](https://img.shields.io/badge/JetBrains%20Plugins-amirisback-blue?style=flat-square&logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/vendor/faisal-amir-github)
 
 #### What are Amir doing? ZzZz
+
+-->
 
 <!--
 
@@ -41,3 +45,6 @@
 <!--
 https://github.com/user-attachments/assets/05eb489d-3026-4e65-9eba-e3dcae29c23e
 -->
+
+<img width="900" height="1254" alt="poster" src="https://github.com/user-attachments/assets/abbf654c-9472-4b69-a007-c73cb836e31e" />
+
